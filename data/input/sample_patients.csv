@@ -1,0 +1,4 @@
+id,first_name,last_name,gender,birth_date,phone,email,address_line,city,state,postal_code,country
+001,John,Doe,male,1980-01-15,555-0123,john.doe@email.com,123 Main St,Boston,MA,02101,USA
+002,Jane,Smith,female,1992-06-22,555-0124,jane.smith@email.com,456 Oak Ave,Cambridge,MA,02139,USA
+003,Robert,Johnson,male,1975-11-30,555-0125,r.johnson@email.com,789 Pine Rd,Somerville,MA,02144,USA
